@@ -43,5 +43,5 @@ LEO-Conflict-Simulation/
 * Add advanced wargaming scenarios (e.g., communication link disruption, target tracking).
 
 ---
-**Author:** Bryan G. Anderson/GitHub Username]
+**Author:** Bryan G. Anderson/banderson1000]
 **Date:** [Current Date, e.g., June 3, 2025]
